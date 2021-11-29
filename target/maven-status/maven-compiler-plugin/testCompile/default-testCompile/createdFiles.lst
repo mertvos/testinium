@@ -1,0 +1,5 @@
+base\BasePage.class
+tests\BaseTest.class
+page\HomePage.class
+tests\TestRun.class
+page\LoginPage.class

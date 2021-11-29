@@ -1,0 +1,4 @@
+2021-11-29 11:30:22 INFO  BaseTest:42 - Ürünün ilk fiyatı:12.695,34 TL
+2021-11-29 11:30:30 INFO  BaseTest:44 - Ürünün açıklaması:Dragos DRx865 ATM00001281 Masaüstü (Desktop) Bilgisayar
+2021-11-29 11:30:42 INFO  BaseTest:55 - Ürünün sepetteki fiyatı:12.695,34 TL
+2021-11-29 11:30:46 INFO  BaseTest:89 - fiyatlar karşılaştıldığında Aynı üründür.12.695,34 TL
